@@ -1,5 +1,4 @@
 var word = document.querySelector('.word');
-var button = document.querySelector('button');
 var inputElements = document.querySelector('.input-elements');
 
 function replaceVowels () {
