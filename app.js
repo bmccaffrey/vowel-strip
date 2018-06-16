@@ -7,3 +7,5 @@ function replaceVowels () {
   header.innerText = word.value.replace(regex, '');
   document.body.insertBefore(header,word);
 }
+
+button.addEventListener('click', replaceVowels);
