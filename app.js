@@ -9,4 +9,4 @@ function replaceVowels () {
   document.body.insertBefore(header, inputElements);
 }
 
-button.addEventListener('click', replaceVowels);
+word.addEventListener('change', replaceVowels);
