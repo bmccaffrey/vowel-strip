@@ -1,0 +1,1 @@
+var word = document.querySelector('input[name=word]');
